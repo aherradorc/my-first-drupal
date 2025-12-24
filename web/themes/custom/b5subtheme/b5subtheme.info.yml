@@ -2,7 +2,7 @@ name: B5Subtheme
 type: theme
 description: Subtema personalizado basado en Bootstrap 5
 core_version_requirement: ^10 || ^11
-base theme: bootstrap
+base theme: bootstrap5
 
 # libraries:
 #   - b5subtheme/global-styling
